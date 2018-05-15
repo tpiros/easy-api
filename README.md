@@ -15,4 +15,4 @@ An API that you can fire up anytime to do quick tests.
 ## Run
 `npm run`
 
-By default the API starts up port 3000. Edit `app.js` to change this.
+By default the API starts up on port 3000. Edit `app.js` to change this.
